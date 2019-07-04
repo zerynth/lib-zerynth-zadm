@@ -1,0 +1,14 @@
+---
+description: Zerynth ADM library
+fullname: lib.zerynth.zadm
+info:
+    chip_manufacturer: '-'
+    chip_name: '-'
+    name: Zerynth ADM Library
+    type: Tool
+keywords:
+- ota
+- rpc
+- adm
+title: Zerynth ADM Library
+...
